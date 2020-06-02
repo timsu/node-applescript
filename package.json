@@ -12,6 +12,5 @@
     "osx"
   ],
   "main": "./lib/applescript",
-  "license": "MIT",
-  "os": ["darwin"]
+  "license": "MIT"
 }
